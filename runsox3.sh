@@ -1,3 +1,5 @@
+#!/bin/bash
+
 duration=5
 output_path="./files"
 rec_device="Mic"
